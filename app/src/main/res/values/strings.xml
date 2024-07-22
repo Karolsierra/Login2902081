@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Login2902081</string>
+    <string name = "hello"> Hola </string>
+    <string name = "Create_an_Account"> Crear una cuenta </string>
+    <string name = "Welcome"> Bienvenido de nuevo </string>
+    <string name="last_name" />
+    <string name="email" />
+    <string name="first_name" />
 </resources>
